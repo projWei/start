@@ -31,3 +31,12 @@ Thank `You` . Please `Call` Me `Coder`
     * 二级点
         * 三级点 
 
+###插入图片
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+
+###GitHub仓库里的图片
+有时候我们想显示一个GitHub仓库(或者说项目)里的图片而不是一张其他来源网络图片，因为其他来源的URL很可能会失效。那么如何显示一个GitHub项目里的图片呢？
+其实与上面的格式基本一致的，所不同的就是括号里的URL该怎么写。
+    https://github.com / 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+这样一目了然了吧。比如：
+![baidu](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
