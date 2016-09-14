@@ -22,4 +22,10 @@ it's testing start
 Thank `You` . Please `Call` Me `Coder`
 
 ###文字超链接
-格式\[ 文字 ]\(链接)  如[百度](http://www.baidu.com)
+格式\[ 文字 ]\(链接)  如[百度](http://www.baidu.com) 还有带提示  [百度](http://www.baidu.com "悬停显示")<br>
+要显示一个 超链接 的话，就直接输入这个链接的URL就好了 http://www.baidu.com
+
+###圆点符
+* 昵称：果冻虾仁
+* 别名：隔壁老王
+* 英文名：Jelly
