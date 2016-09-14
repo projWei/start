@@ -40,3 +40,7 @@ Thank `You` . Please `Call` Me `Coder`
     https://github.com / 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 这样一目了然了吧。比如：
 ![baidu](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+
+
+###代码
+`public static void main(String[] args)`
