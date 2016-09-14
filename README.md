@@ -31,6 +31,14 @@ Thank `You` . Please `Call` Me `Coder`
     * 二级点
         * 三级点 
 
+###序号
+1. 桃子
+2. 梨
+
+####无序
+- 桃子
+- 苹果
+
 ###插入图片
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 
